@@ -1,0 +1,107 @@
+body {
+    font: 300 20px/1.6  Arial; /* font-weight font-size line-height font-style*/
+    /* position: relative; */
+    background-color: #070939;
+    /* height: 100vh; */
+    text-align: center;
+    /* background-size: cover; */
+    color: white;
+}
+
+/* img {
+    -ms-interpolation-mode: bicubic;
+    vertical-align: middle;
+    border: 0;
+} */
+
+.profile-card {
+    /* width: 300px; */
+    border-radius: 20px;
+    /* overflow: hidden; */
+    box-shadow: 0px 10px 20px 0px #516493;
+    /* position: relative; */
+    /* margin: auto; */
+    background: #34285E;
+    /* top: 50%; */
+    /* transform: translateY(-50%); */
+    padding: 0 0 20px 0;
+
+}
+
+.profile-card header {
+    display: inline-block;  /*inline extra */
+    /* position: relative; */
+    background: #34285E;
+    text-align: center;
+    padding: 30px 0 20px;
+    /* z-index: 1; */
+    /* overflow: hidden; */
+    color: white;
+}
+
+.profile-card header img {
+    border-radius: 100%;
+    /* overflow: hidden; */
+    width: 150px;
+    /*border: 1px solid rgba(255,255,255,.5);*/
+    /* box-shadow: 0 1px 0 rgba(0, 0, 0, .1), 0 1px 2px rgba(0, 0, 0, .1); */
+}
+
+.profile-card header h1 {
+    font-weight: 200;
+    font-size: 42px;
+    /* letter-spacing: -3px; */
+    margin: 0;
+    padding: 0;
+}
+
+.profile-card header h2 {
+    font-weight: 400;
+    font-size: 20px;
+    /* letter-spacing: .5px; */
+    margin: 0;
+    padding: 0;
+}
+
+.profile-card .profile-bio {
+    padding: 0 30px;
+    text-align: center;
+    color: white;
+}
+
+input[type="submit"] {
+    border: none;
+    /* display: block; */
+    background-color: #516493;
+    color: #fff;
+    font-weight: bold;
+    /* text-transform: uppercase; */
+    /* cursor: pointer; */
+    /* -webkit-transition: all 0.2s ease;
+    transition: all 0.2s ease; */
+    font-size: 15px;
+    /* position: relative; */
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+}
+
+input {
+    /* display: block; */
+    /* box-sizing: border-box; */
+    width: 40%;
+    height: 40px;
+    border-radius: 15px;
+    /* vertical-align: center; */
+}
+
+.flex-container {display: flex;}
+
+.profile-card {
+    flex: 1;
+    margin: 1% 5% 0 5%; /*top right botton left*/
+}  
+
+/* .profile-card:profile-card {
+    margin-right: 10px;
+}  */
