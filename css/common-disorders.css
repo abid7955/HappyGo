@@ -1,0 +1,492 @@
+.common-disorders-container {
+  min-height: 100vh;
+}
+.common-disorders-common-disorders {
+  width: 100%;
+  height: 2776px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  max-width: 1440px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 0px 0px 0px 0px;
+  background-color: rgba(7, 9, 57, 1);
+}
+.common-disorders-ellipse3 {
+  top: 1494px;
+  left: -345px;
+  width: 543px;
+  height: 912px;
+  opacity: 0.30;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.common-disorders-text {
+  top: 130px;
+  left: 352px;
+  color: rgba(255, 255, 255, 1);
+  width: 698px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: center;
+  font-family: Outfit;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.common-disorders-text02 {
+  top: 240px;
+  left: 281px;
+  color: rgba(255, 255, 255, 1);
+  width: 307px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Outfit;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.common-disorders-text04 {
+  top: 745px;
+  left: 787px;
+  color: rgba(255, 255, 255, 1);
+  width: 472px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Outfit;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.common-disorders-text06 {
+  top: 1175px;
+  left: 198px;
+  color: rgba(255, 255, 255, 1);
+  width: 472px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Outfit;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.common-disorders-text08 {
+  top: 1744px;
+  left: 753px;
+  color: rgba(255, 255, 255, 1);
+  width: 539px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Outfit;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.common-disorders-text10 {
+  top: 2186px;
+  left: 144px;
+  color: rgba(255, 255, 255, 1);
+  width: 539px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Outfit;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.common-disorders-text12 {
+  top: 300px;
+  left: 73px;
+  color: rgba(255, 255, 255, 1);
+  width: 722px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: justified;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.common-disorders-text14 {
+  top: 813px;
+  left: 662px;
+  color: rgba(255, 255, 255, 1);
+  width: 722px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: justified;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.common-disorders-text16 {
+  top: 1233px;
+  left: 73px;
+  color: rgba(255, 255, 255, 1);
+  width: 722px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: justified;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.common-disorders-text23 {
+  top: 1811px;
+  left: 662px;
+  color: rgba(255, 255, 255, 1);
+  width: 722px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: justified;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.common-disorders-text25 {
+  top: 2253px;
+  left: 73px;
+  color: rgba(255, 255, 255, 1);
+  width: 722px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: justified;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.common-disorders-image2 {
+  top: 745px;
+  left: 95px;
+  width: 493px;
+  height: 323px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: 0;
+  border-radius: 30px;
+  margin-bottom: 0;
+}
+.common-disorders-vector {
+  top: 193px;
+  left: 809px;
+  width: 607px;
+  height: 504px;
+  opacity: 0.10;
+  position: absolute;
+  box-sizing: border-box;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.common-disorders-image3 {
+  top: 154px;
+  left: 910px;
+  width: 379px;
+  height: 513px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.common-disorders-line2 {
+  top: 696.5px;
+  left: 413px;
+  width: 664px;
+  height: 956px;
+  position: absolute;
+  box-sizing: border-box;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.common-disorders-line3 {
+  top: 696.5px;
+  left: 413px;
+  width: 664px;
+  height: 2025px;
+  position: absolute;
+  box-sizing: border-box;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.common-disorders-image5 {
+  top: 1747px;
+  left: 73px;
+  width: 512px;
+  height: 347px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 35px;
+  margin-bottom: 0;
+}
+.common-disorders-image6 {
+  top: 2206px;
+  left: 885px;
+  width: 458px;
+  height: 457px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 104px;
+  margin-bottom: 0;
+}
+.common-disorders-ellipse2 {
+  top: 323px;
+  left: -885px;
+  width: 1009px;
+  height: 745px;
+  opacity: 0.30;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.common-disorders-ellipse1 {
+  top: 836px;
+  left: 1341px;
+  width: 543px;
+  height: 669px;
+  opacity: 0.30;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.common-disorders-image4 {
+  top: 1156px;
+  left: 881px;
+  width: 460px;
+  height: 440px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  border-radius: 500px;
+  margin-bottom: 0;
+}
+.common-disorders-nav-bar {
+  top: -5px;
+  left: -26px;
+  width: 1466px;
+  height: 120px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.common-disorders-rectangle2 {
+  top: 5px;
+  left: 25px;
+  width: 1441px;
+  height: 81px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+}
+.common-disorders-image11 {
+  top: 0px;
+  left: 0px;
+  width: 245px;
+  height: 75px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+}
+.common-disorders-nav-right {
+  top: 20px;
+  left: 915px;
+  width: 405.9596252441406px;
+  height: 51px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.common-disorders-rectangle1 {
+  top: 1px;
+  left: 259.55322265625px;
+  width: 146px;
+  height: 49px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  border-radius: 83px;
+}
+.common-disorders-rectangle3 {
+  top: 0px;
+  left: 131.19696044921875px;
+  width: 101px;
+  height: 51px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  border-radius: 83px;
+}
+.common-disorders-rectangle6 {
+  top: 0px;
+  left: 0px;
+  width: 102px;
+  height: 51px;
+  position: absolute;
+  box-sizing: border-box;
+}
+.common-disorders-text32 {
+  margin-top: 10px;
+  color: rgba(255, 255, 255, 1);
+  width: 102px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 27.5px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.common-disorders-text34 {
+  margin-top: 10px;
+  left: 131px;
+  color: rgba(255, 255, 255, 1);
+  width: 101px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 27.5px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.common-disorders-text36 {
+  top: 11px;
+  left: 282.61724853515625px;
+  color: rgba(255, 255, 255, 1);
+  width: 102px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 27.5px;
+  font-stretch: normal;
+  text-decoration: none;
+}

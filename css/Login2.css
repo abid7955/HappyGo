@@ -1,0 +1,337 @@
+/* This source code is exported from pxCode, you can get more document from https://www.pxcode.io */
+.group {
+  display: flex;
+  flex-direction: column;
+  background-color: #070939;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.2470588235);
+}
+
+.group.layout {
+  position: relative;
+  overflow: hidden;
+  min-height: 812px;
+}
+
+.rect {
+  background-color: white;
+}
+
+.rect.layout {
+  position: absolute;
+  top: 66px;
+  height: 585px;
+  left: 484px;
+  width: 486px;
+  min-width: 486px;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex.layout {
+  position: absolute;
+  top: 537px;
+  height: 13px;
+  left: 575px;
+  width: 300px;
+  min-width: 300px;
+}
+
+.flex-item {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 1 108px;
+}
+
+.rect1 {
+  background-color: #a39797;
+}
+
+.rect1.layout {
+  position: relative;
+  height: 3px;
+  margin: 5px 0px;
+}
+
+.flex-spacer {
+  flex: 0 1 9px;
+}
+
+.txt {
+  font: 400 10.2465715408px/1.2 "Outfit", Helvetica, Arial, serif;
+  color: #747070;
+  letter-spacing: 0px;
+}
+
+.txt.layout {
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.flex-spacer1 {
+  flex: 0 1 7px;
+}
+
+.img {
+  width: 100%;
+  height: auto;
+  vertical-align: top;
+  -o-object-fit: contain;
+  object-fit: contain;
+  -o-object-position: center top;
+  object-position: center top;
+}
+
+.img.layout {
+  position: absolute;
+  top: 578px;
+  height: 10px;
+  left: 694px;
+  width: 10px;
+  min-width: 10px;
+}
+
+.img.layout1 {
+  position: absolute;
+  top: 582px;
+  height: 9px;
+  left: 684px;
+  width: 17px;
+  min-width: 17px;
+}
+
+.img.layout2 {
+  position: absolute;
+  top: 576px;
+  height: 9px;
+  left: 683px;
+  width: 5px;
+  min-width: 5px;
+}
+
+.img.layout3 {
+  position: absolute;
+  top: 570px;
+  height: 8px;
+  left: 684px;
+  width: 17px;
+  min-width: 17px;
+}
+
+.flex1 {
+  display: flex;
+  flex-direction: column;
+}
+
+.flex1.layout {
+  position: absolute;
+  top: 571px;
+  height: 45px;
+  left: 643px;
+  width: 161px;
+  min-width: 161px;
+}
+
+.txt1 {
+  display: flex;
+  justify-content: flex-end;
+  font: 500 11.9543333054px/1.2 "Poppins", Helvetica, Arial, serif;
+  color: black;
+  text-align: right;
+  letter-spacing: 0px;
+}
+
+.txt1.layout {
+  position: relative;
+  width: 75px;
+  min-width: 75px;
+  margin: 0px auto;
+}
+
+.txt2-box.layout {
+  position: relative;
+  margin: 14px 0px 0px;
+}
+
+.txt2 {
+  font: 400 10.2465715408px/1.2 "Outfit", Helvetica, Arial, serif;
+  color: black;
+  letter-spacing: 0px;
+}
+
+.undefined-span0 {
+  font: 1em/1.2 "Outfit", Helvetica, Arial, serif;
+  color: #626262ff;
+  letter-spacing: 0px;
+}
+
+.undefined-span1 {
+  font: 600 1em/1.2 "Outfit", Helvetica, Arial, serif;
+  color: #000000ff;
+  letter-spacing: 0px;
+}
+
+.flex1.layout2 {
+  position: absolute;
+  top: 96px;
+  height: 314px;
+  left: 533px;
+  width: 383px;
+  min-width: 383px;
+}
+
+.img.layout4 {
+  position: relative;
+  width: 53.26%;
+  margin: 0px auto;
+}
+
+.flex-item1 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.group1 {
+  display: flex;
+  flex-direction: column;
+}
+
+.group1.layout {
+  position: relative;
+  height: 41px;
+  margin: 10px 27px 0px 34px;
+}
+
+.rect2 {
+  box-shadow: 0px 6.8310480118px 17.0776195526px 0px rgba(0, 0, 0, 0.0784313725);
+  border: 0.8538810015px solid black;
+  border-radius: 6.8310480118px 6.8310480118px 6.8310480118px 6.8310480118px;
+}
+
+.rect2.layout {
+  position: absolute;
+  top: 0px;
+  height: 41px;
+  left: 0px;
+  width: 322px;
+  min-width: 322px;
+}
+
+.rect3 {
+  background-color: #0d0e4a;
+  box-shadow: 0px 1.7077620029px 1.7077620029px 0px rgba(0, 0, 0, 0.2470588235);
+  border-radius: 6px 0px 0px 6px;
+}
+
+.rect3.layout {
+  position: absolute;
+  top: 0px;
+  height: 41px;
+  left: 161px;
+  width: 160px;
+  min-width: 160px;
+}
+
+.txt3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font: 600 15.3698577881px/1.2 "Outfit", Helvetica, Arial, serif;
+  color: black;
+  text-align: center;
+  letter-spacing: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+.txt4 {
+  font: 600 15.3698577881px/1.2 "Outfit", Helvetica, Arial, serif;
+  color: white;
+  letter-spacing: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+.flex1.layout1 {
+  position: relative;
+  margin: 31px 0px 0px;
+}
+
+.flex-item2 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.cover-block {
+  display: flex;
+  flex-direction: column;
+}
+
+.cover-block.layout {
+  position: relative;
+  height: 55px;
+}
+
+.rect4 {
+  box-shadow: 0px 1.7077620029px 1.7077620029px 0px rgba(0, 0, 0, 0.1176470588);
+  border: 2.5616428852px solid #818181;
+  border-radius: 5.9771666527px 5.9771666527px 5.9771666527px 5.9771666527px;
+}
+
+.rect4.layout {
+  position: absolute;
+  top: 0px;
+  height: 55px;
+  left: 0px;
+  width: 383px;
+  min-width: 383px;
+}
+
+.txt5 {
+  font: 400 13.6620960236px/1.2 "Outfit", Helvetica, Arial, serif;
+  color: #6e6e6e;
+  letter-spacing: 0px;
+}
+
+.txt5.layout {
+  position: absolute;
+  top: 19px;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  left: 20px;
+  min-width: 0px;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+
+.cover-block1 {
+  display: flex;
+  flex-direction: column;
+  background-color: #190152;
+  border-radius: 10.2465715408px 10.2465715408px 10.2465715408px 10.2465715408px;
+}
+
+.cover-block1.layout {
+  position: relative;
+  margin: 41px 0px 0px;
+}
+
+.txt6 {
+  font: 600 17.0776195526px/1.2 "Outfit", Helvetica, Arial, serif;
+  color: white;
+  letter-spacing: 0px;
+}
+
+.txt6.layout {
+  position: relative;
+  flex-grow: 1;
+  width: 77px;
+  min-width: 77px;
+  margin: 17px auto 16px;
+}
